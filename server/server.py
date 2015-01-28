@@ -6,7 +6,7 @@
  
 import BaseHTTPServer
 import CGIHTTPServer
-import cgitb; cgitb.enable()  ## This line enables CGI error reporting
+import cgitb; cgitb.enable()
  
 server = BaseHTTPServer.HTTPServer
 handler = CGIHTTPServer.CGIHTTPRequestHandler
