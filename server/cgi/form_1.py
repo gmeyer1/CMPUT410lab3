@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# CMPUT 410 - Winter 2015
+# Glenn Meyer
+# gmeyer1
+
 print """Content-type: text/html
 
 <title>Name & Family</title>
