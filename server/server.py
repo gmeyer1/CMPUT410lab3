@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# CMPUT 410 - Winter 2015
+# Glenn Meyer
+# gmeyer1
  
 import BaseHTTPServer
 import CGIHTTPServer
